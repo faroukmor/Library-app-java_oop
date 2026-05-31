@@ -1,0 +1,19 @@
+M002;محمد ناصر الدين الألباني;albani.nasser@email.com;0550111111
+M003;عبد العزيز بن باز;binbaz.aziz@email.com;0550222222
+M004;محمد بن صالح العثيمين;uthaymeen.m@email.com;0550333333
+M005;مقبل بن هادي الوادعي;muqbil.hadi@email.com;0550444444
+M006;صالح بن فوزان الفوزان;fawzan.saleh@email.com;0550555555
+M007;ربيع بن هادي المدخلي;rabee.hadi@email.com;0550666666
+M008;عبد المحسن العباد البدر;abbad.mohsen@email.com;0550777777
+M009;محمد أمان الجامي;jami.aman@email.com;0550888888
+M010;زيد بن محمد المدخلي;zaid.madkhali@email.com;0550999999
+M011;عبد الرزاق بن عبد المحسن البدر;badr.razzaq@email.com;0551112233
+M012;سليمان بن سليم الرحيلي;ruhaily.s@email.com;0552223344
+M013;محمد بن هادي المدخلي;m.hadi@email.com;0553334455
+M014;صالح بن سعد السحيمي;suhaimi.s@email.com;0554445566
+M015;عبد السلام بن برجس;burjis.salam@email.com;0555556677
+M016;محمد علي فركوس;ferkous.ali@email.com;0556667788
+M017;عبد المجيد جمعة;jumaa.majid@email.com;0557778899
+M018;عز الدين رمضاني;ramadani.iz@email.com;0558889900
+M019;سعد بن ناصر الشثري;shathri.s@email.com;0559990011
+M001;عبد الله بن فهد الخليفي;;
