@@ -1,7 +1,7 @@
-📚 The Grand Library System
+# The Grand Library System
 A Java desktop application for managing a library — books, members, and loan circulation — built with Java Swing and an OOP architecture.
 
-✨ Features
+# Features
 
 Book Management — Add, edit, and delete Physical Books and E-Books
 Member Management — Register and remove library members
@@ -12,7 +12,7 @@ Bilingual UI — Switch between English and Arabic at runtime
 Data Persistence — All data is saved to local files
 
 
-🏗️ Project Structure
+# Project Structure
 libraryApp/
 ├── Book.java             # Abstract base class for all book types
 ├── PhysicalBook.java     # Physical book (14-day loan period)
@@ -25,7 +25,7 @@ libraryApp/
 ├── Login.java            # Login screen
 └── GUI.java              # Main Swing UI (CardLayout, 4 panels)
 
-🚀 Getting Started
+# Getting Started
 Requirements: Java 11 or later
 bash# Compile
 javac libraryApp/*.java
@@ -33,10 +33,10 @@ javac libraryApp/*.java
 # Run
 java libraryApp.GUI
 
-🖥️ UI Overview
+# UI Overview
 PanelDescriptionDashboardBook table with live search and statsManage BooksAdd / edit / delete books (toggle E-Book fields)CirculationBorrow and return books by IDMembersRegister members, view active loans
 
-🧱 Design Patterns Used
+# Design Patterns Used
 
 Singleton — LibraryManagement ensures one instance of the library
 Abstract Class + Inheritance — Book → PhysicalBook / EBook
