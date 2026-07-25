@@ -44,5 +44,5 @@ Interface — IMedia for digital content contract
 Composition — EBook uses DigitalMedia component
 
 
-📄 License
+# License
 This project is for educational purposes.
